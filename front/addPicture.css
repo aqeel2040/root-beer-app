@@ -1,0 +1,29 @@
+.addpicturenav {
+    background-color: #FBB117;
+}
+
+.btnclass {
+    background-color: #f5c55e;
+}
+
+.formclass {
+    background-color: #f3a90a;
+}
+
+.addpicform {
+    height: 400px;
+    overflow: hidden;
+}
+
+.previewcard {
+    height: 190px;
+    overflow: hidden;
+
+}
+
+.addpicturebody {
+    background-image: url("./background.avif");
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-size: 1370px 650px;
+}
